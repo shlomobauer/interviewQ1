@@ -1,4 +1,7 @@
-This project was created in response to an
+I periodically look at what sort of questions
+companies ask developers.  I learn all sorts
+of stuff this way.  This project
+was created in response to an
 interview question: Write a functional
 program that reads a csv file that
 stores a description of a graph.
@@ -7,7 +10,20 @@ The csv file
 has three columns, parent node,
 child node and child node type.
 
-I am not complaining when I note
+The "goal" of the project was for
+the candidate to submit code to
+be reviewed; among the review
+goals was to determine the extent
+to which the code was production
+ready.
+
+I observed that the question,
+the csv file and the production
+environment were underspecified.
+It was not clear to me that any
+stated goal of the review could
+be achieved.  But, that being
+said, I am not complaining when I note
 that the question
 and the context of the question
 were underspecified.
