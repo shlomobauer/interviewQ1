@@ -21,11 +21,6 @@ on having the algorithm that achieves
 some goal and then on having that algorithm
 run at the appropriate scale.
 
-What follows is the readme I delivered, so
-please be forgiving with regard to grammar
-as I didn't spend significant time reviewing
-and rewriting it.
-
 This is a haskell based project that uses stack.
 
 To build and run this, you need to install stack.
